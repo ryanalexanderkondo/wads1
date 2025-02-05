@@ -2,4 +2,3 @@ Name: Ryan Alexander Kondo
 Class: B4CC
 University: Binus University International
 Age: 22
-test
